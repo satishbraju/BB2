@@ -1,0 +1,6 @@
+[submodule "CC3"]
+	path = CC3
+	url = https://github.com/satishbraju/cc3.git
+[submodule "CC4"]
+	path = CC4
+	url = https://github.com/satishbraju/cc4.git
